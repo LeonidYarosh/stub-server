@@ -1,0 +1,72 @@
+[{
+  "id": "8C6C5F2C-71A3-2F17-EBE5-76810D6CBB3B",
+  "numberOfContract": "229312",
+  "loanAccountNumber": "4550981022851",
+  "fullNameOfPrimaryBorrower": "Avram Herring",
+  "statusOfContract": "Открыт",
+  "result": "OK"
+},
+{
+  "id": "0025420D-AA51-8AA6-65D1-7D583BD6DEF9",
+  "numberOfContract": "656892",
+  "loanAccountNumber": "4550981089005",
+  "fullNameOfPrimaryBorrower": "Demetrius Chase",
+  "statusOfContract": "Открыт",
+  "result": "OK"
+},
+{
+  "id": "ECFC83A4-76FD-BFED-83D5-7B5BB50AB66C",
+  "numberOfContract": "132761",
+  "loanAccountNumber": "4550981044317",
+  "fullNameOfPrimaryBorrower": "Hamilton Wolfe",
+  "statusOfContract": "Открыт",
+  "result": "OK"
+},
+{
+  "id": "4C5D0261-04DB-FFB0-CF0F-116C5BF24470",
+  "numberOfContract": "538715",
+  "loanAccountNumber": "4550981061832",
+  "fullNameOfPrimaryBorrower": "Zahir Logan",
+  "statusOfContract": "Открыт",
+  "result": "OK"
+},
+{
+  "id": "D0987EFE-4DFB-AD0D-4C26-FB7C363E3150",
+  "numberOfContract": "634090",
+  "loanAccountNumber": "4550981008668",
+  "fullNameOfPrimaryBorrower": "Clayton Stanton",
+  "statusOfContract": "Открыт",
+  "result": "OK"
+},
+{
+  "id": "C7F6DC8D-7904-5A67-234E-CD5EA66BF3D6",
+  "numberOfContract": "845444",
+  "loanAccountNumber": "4550981062477",
+  "fullNameOfPrimaryBorrower": "Ezra Gillespie",
+  "statusOfContract": "Открыт",
+  "result": "OK"
+},
+{
+  "id": "29DADCB2-BD77-7B9C-6F61-314010D10F82",
+  "numberOfContract": "507494",
+  "loanAccountNumber": "4550981095308",
+  "fullNameOfPrimaryBorrower": "Nolan Farmer",
+  "statusOfContract": "Открыт",
+  "result": "OK"
+},
+{
+  "id": "6A0D6142-757B-7613-B865-5657812A9238",
+  "numberOfContract": "146987",
+  "loanAccountNumber": "4550981074444",
+  "fullNameOfPrimaryBorrower": "Sean Barker",
+  "statusOfContract": "Открыт",
+  "result": "OK"
+},
+{
+  "id": "A25AF102-075D-A142-29F1-8C0C30784B97",
+  "numberOfContract": "872444",
+  "loanAccountNumber": "4550981015790",
+  "fullNameOfPrimaryBorrower": "Clinton Oconnor",
+  "statusOfContract": "Открыт",
+  "result": "OK"
+}]
